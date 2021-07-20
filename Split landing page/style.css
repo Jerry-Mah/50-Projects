@@ -39,7 +39,7 @@ h1{
     display:flex;
     flex-direction: column;
     align-items: center;
-    background:url('/ps.jpg');
+    background:url('/Split\ landing\ page/ps.jpg');
     background-position: center;
     background-size:cover;
 
@@ -58,7 +58,7 @@ h1{
     display:flex;
     flex-direction: column;
     align-items: center;
-    background: url('/xbox.jpg');
+    background: url('/Split\ landing\ page/xbox.jpg');
     /* background-position: center; */
     background-size:cover;
 }
